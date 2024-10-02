@@ -1,4 +1,4 @@
-Assignment 2 - **Building a Data Dashboard with Streamlit**
+**Assignment 2 - Building a Data Dashboard with Streamlit**
 
 -Develop an interactive Streamlit dashboard to present the key insights and visualizations from your EDA.
 
