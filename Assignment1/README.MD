@@ -1,8 +1,11 @@
 The dataset can be accessed [here](https://drive.google.com/file/d/1n7Y3Dloj8nj9tal5JRBzQhcqzxTGjNfW/view?usp=sharing).
 
-**Understand Business Context**
+**Assignment 1**
+
+1. Understand Business Context
 Brainstorm with your group to define what you want to explore. Do you have a research question or a theory? Identify the 'business problem' you're addressing.
-Data Cleaning and Manipulation
+
+2. Data Cleaning and Manipulation
 Assess the dataset for quality issues and fix missing values, outliers, and data type inconsistencies.
 Perform necessary transformations, create new variables, and normalize data if appropriate.
 If needed, merge data from multiple sources using appropriate joins.
