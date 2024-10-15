@@ -3,7 +3,8 @@ The dataset can be accessed [here](https://drive.google.com/file/d/1n7Y3Dloj8nj9
 **Assignment 1**
 
 1. Understand Business Context
-Brainstorm with your group to define what you want to explore. Do you have a research question or a theory? Identify the 'business problem' you're addressing.
+
+-Brainstorm with your group to define what you want to explore. Do you have a research question or a theory? Identify the 'business problem' you're addressing.
 
 2. Data Cleaning and Manipulation
 Assess the dataset for quality issues and fix missing values, outliers, and data type inconsistencies.
